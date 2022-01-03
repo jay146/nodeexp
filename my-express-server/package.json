@@ -14,6 +14,7 @@
   "author": "jay146",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.19.1"
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2"
   }
 }
