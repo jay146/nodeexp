@@ -1,3 +1,4 @@
+
 {
   "name": "intro-to-node",
   "version": "1.0.0",
@@ -9,6 +10,7 @@
   "author": "jay",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.17.2",
     "superheroes": "^3.0.0"
   }
 }
